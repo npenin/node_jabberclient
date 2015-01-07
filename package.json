@@ -1,0 +1,23 @@
+{
+  "name": "jabber",
+  "version": "0.0.1",
+  "bugs": {
+    "url": "http://github.com/npenin/node_jabberclient/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/npenin/node_jabberclient.git"
+  },
+  "author": "Nicolas Penin <nicolas.penin@dragon-angel.fr>",
+  "dependencies": {
+    "xml2js": "latest",
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jabber",
+    "logitech"
+  ],
+  "license": "MIT"
+}
